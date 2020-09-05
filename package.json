@@ -34,7 +34,7 @@
     "@angular/platform-browser-dynamic": "~2.0.0",
     "annyang": "^2.5.0",
     "core-js": "^2.4.0",
-    "glslify-loader": "^1.0.2",
+    "glslify-loader": "^2.0.0",
     "raw-loader": "^0.5.1",
     "rxjs": "5.0.0-beta.12",
     "three": "^0.80.1",
